@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.foresight.news_briefing",
+      "sha256_cert_fingerprints": [
+        "BF:A5:DC:59:45:A5:3A:89:D2:A0:94:96:B9:97:5D:68:0E:F8:E4:9F:6D:BB:54:A3:48:83:D2:8C:74:1F:36:70"
+      ]
+    }
+  }
+]
